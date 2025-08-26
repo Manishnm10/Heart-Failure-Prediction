@@ -13,6 +13,7 @@ The dataset is loaded and explored in the notebook.
 Installation:  
 1. Clone the repository. git clone https://github.com/Manishnm10/heart-failure-prediction.git ```cd heart-failure-prediction```
 2. Install the required libraries in Python.  ```pip install -r requirements.txt```
-   If requirements.txt is no available, install manually.  ```pip install pandas numpy matplotlib seaborn scikit-learn```
-3. Install Jupyter notebook.  ```pip install notebook```
+   If requirements.txt is no available, install manually.
+   ```pip install pandas numpy matplotlib seaborn scikit-learn```
+4. Install Jupyter notebook.  ```pip install notebook```
    
